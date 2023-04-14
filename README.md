@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Harish-Creates
-          can also call me IJ aka Harish
+          can also call me IJ aka Harish.I.J
           
-- 👀 I’m interested in Graphic Designing & UI/UX Designing and to become a Front-end Designer x Developer
-- 🌱 I’m currently learning JavaScript & React JS
-- 📫 Ping me on || Instagram: https://www.instagram.com/ij.here_/
+- 👀 I’m interested in Graphic Designing & UI/UX Designing and to become a Designer x Developer
+- 🌱 I’m currently learning React JS, Java, 
+- 📫 Ping me on || Instagram: https://www.instagram.com/being.ij/
                  || Twitter: https://twitter.com/__zeeeeeee__
 
 <!---
