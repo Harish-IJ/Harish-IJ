@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish-Creates&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 <p></p>
-<h6 align="center">Fluent in both Web Developing & UI/UX Designing. Honing my skills day-by-day. 🤞🙋‍♂️</h6>
+<h4 align="center">Fluent in both Web Developing & UI/UX Designing. Honing my skills day-by-day. 🤞🙋‍♂️</h4>
 <h2 align="left">Tech-Stack:</h2>
 <img align="right" height="120" src="https://i.giphy.com/xuWkuYl33i28fIwkBM.webp"  />
 
