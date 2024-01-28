@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Harish-Creates
-          can also call me IJ aka Harish.I.J
-          
-- 👀 I’m interested in Graphic Designing & UI/UX Designing and to become a Designer x Developer
-- 🌱 I’m currently learning React JS, Java, 
-- 📫 Ping me on || Instagram: https://www.instagram.com/being.ij/
-                 || Twitter: https://twitter.com/__zeeeeeee__
+- 👋 Hi I’m Harish I J, am a Web Developer & UI/UX Designer
+- 🌱 I’m currently learning Node JS & MongoDB
+- 📫 Ping me on || Linkedin: linkedin.com/in/harish-ij/
+                 || Behance: behance.net/harishij
 
 <!---
 Harish-Creates/Harish-Creates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
