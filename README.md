@@ -2,8 +2,8 @@
 
 <h1 align="center">Greetings, I'm Harish I J 🤜🤛</h1>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-Creates&theme=tokyo-night&hide_border=true&radius=20&hide_title=false&custom_title=Activity%20Graph" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish-Creates&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-IJ&theme=tokyo-night&hide_border=true&radius=20&hide_title=false&custom_title=Activity%20Graph" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish-IJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 <p></p>
 <h4 align="center">Fluent in both Web Developing & UI/UX Designing. Honing my skills day-by-day. 🤞🙋‍♂️</h4>
